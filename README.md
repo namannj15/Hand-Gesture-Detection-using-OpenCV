@@ -17,7 +17,7 @@ We will automatically trigger the required keypress events, depending upon the h
 ###
 Below are the results on a few sample images but this will also work on camera feed in real-time and on recorded videos as well.
 You will not need any expensive GPU, your CPU will suffice as the whole code is highly optimized
-<img src="Assets/readme1.jpg"> &ensp;
+<img src="Assets/readme1.png"> &ensp;
 
 ###
 Utilizing the landmarks to count the number of fingers up of each hand in the image/frame and will return the count and the status of each finger in the image as well.
