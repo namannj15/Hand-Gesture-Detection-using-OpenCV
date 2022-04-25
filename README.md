@@ -49,7 +49,9 @@ Step 5:  Build a Selfie-Capturing System controlled by Hand Gestures
 ## Teck Stack Used
 Python, Opencv, Mediapipe
 
-
-
+### Contributors
+* [Abhinav Gautam](https://github.com/abhinavGtm) - RA1911003010074
+* [Abhijeet Gupta](https://github.com/abhigupta2000) - RA1911003010089
+* [Naman Jain](https://github.com/namannj15) - RA1911003010090
 
 
